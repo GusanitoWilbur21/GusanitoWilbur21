@@ -1,0 +1,58 @@
+[
+    {
+        "id": 1,
+        "minecraftId": "item.mcdisc.1",
+        "url": "https://youtu.be/OVJnEq_qgMc",
+        "name": "Por el aire",
+        "artist": "Robleis",
+        "soundId": "sound.mcdisc.1"
+    },
+    {
+        "id": 2,
+        "minecraftId": "item.mcdisc.2",
+        "url": "https://youtu.be/7-x3uD5z1bQ",
+        "name": "Watermelon Sugar",
+        "artist": "Harry Styles",
+        "soundId": "sound.mcdisc.2"
+    },
+    {
+        "id": 3,
+        "minecraftId": "item.mcdisc.3",
+        "url": "https://youtu.be/l5QAOvBqT3c",
+        "name": "CANGURO",
+        "artist": "WOS",
+        "soundId": "sound.mcdisc.3"
+    },
+    {
+        "id": 4,
+        "minecraftId": "item.mcdisc.4",
+        "url": "https://youtu.be/NUteQQCMa_k",
+        "name": "Mamichula",
+        "artist": "Trueno",
+        "soundId": "sound.mcdisc.4"
+    },
+    {
+        "id": 5,
+        "minecraftId": "item.mcdisc.5",
+        "url": "https://youtu.be/hECo2UUFV5A",
+        "name": "Even Exist",
+        "artist": "Rodezel",
+        "soundId": "sound.mcdisc.5"
+    },
+    {
+        "id": 6,
+        "minecraftId": "item.mcdisc.6",
+        "url": "https://youtu.be/AmNOfqeUFLk",
+        "name": "FRESCO",
+        "artist": "WOS",
+        "soundId": "sound.mcdisc.6"
+    },
+    {
+        "id": 7,
+        "minecraftId": "item.mcdisc.7",
+        "url": "https://youtu.be/xWkKAbENwAs",
+        "name": "Sangría",
+        "artist": "Trueno",
+        "soundId": "sound.mcdisc.7"
+    }
+]
